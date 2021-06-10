@@ -1,0 +1,82 @@
+/* ==========================================================================
+   Webfonts
+   ========================================================================== */
+/* Graphik */
+@font-face {
+  font-family: 'Graphik';
+  src: url('../webfonts/Graphik-Light.woff2') format('woff2'),
+    url('../webfonts/Graphik-Light.woff') format('woff'),
+    url('../webfonts/Graphik-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;}
+  
+@font-face {
+  font-family: 'Graphik';
+  src: url('../webfonts/Graphik-Bold.woff2') format('woff2'),
+    url('../webfonts/Graphik-Bold.woff') format('woff'),
+    url('../webfonts/Graphik-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;}
+  
+@font-face {
+  font-family: 'Graphik';
+  src: url('../webfonts/Graphik-Medium.woff2') format('woff2'),
+    url('../webfonts/Graphik-Medium.woff') format('woff'),
+    url('../webfonts/Graphik-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('../webfonts/Graphik-Regular.woff2') format('woff2'),
+    url('../webfonts/Graphik-Regular.woff') format('woff'),
+    url('../webfonts/Graphik-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;}
+
+@font-face {
+  font-family: 'Graphik';
+  src: url('../webfonts/Graphik-Semibold.woff2') format('woff2'),
+    url('../webfonts/Graphik-Semibold.woff') format('woff'),
+    url('../webfonts/Graphik-Semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;}
+
+/* GT Walsheim Pro */
+@font-face {
+  font-family: 'GT Walsheim Pro';
+  src: url('../webfonts/GTWalsheimProRegular.woff2') format('woff2'),
+    url('../webfonts/GTWalsheimProRegular.woff') format('woff'),
+    url('../webfonts/GTWalsheimProRegular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;}
+@font-face {
+  font-family: 'GT Walsheim Pro';
+  src: url('../webfonts/GTWalsheimPro-RegularOblique.woff2') format('woff2'),
+    url('../webfonts/GTWalsheimPro-RegularOblique.woff') format('woff'),
+    url('../webfonts/GTWalsheimPro-RegularOblique.ttf') format('truetype');
+  font-weight: 400;
+  font-style: oblique;
+  font-display: swap;}
+@font-face {
+  font-family: 'GT Walsheim Pro';
+  src: url('../webfonts/GTWalsheimProBold.woff2') format('woff2'),
+    url('../webfonts/GTWalsheimProBold.woff') format('woff'),
+    url('../webfonts/GTWalsheimProBold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;}
+@font-face {
+  font-family: 'GT Walsheim Pro';
+  src: url('../webfonts/GTWalsheimPro-BoldOblique.woff2') format('woff2'),
+    url('../webfonts/GTWalsheimPro-BoldOblique.woff') format('woff'),
+    url('../webfonts/GTWalsheimPro-BoldOblique.ttf') format('truetype');
+  font-weight: 700;
+  font-style: oblique;
+  font-display: swap;}
